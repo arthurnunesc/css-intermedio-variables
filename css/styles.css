@@ -1,0 +1,14 @@
+:root {
+  --text-colasor: #666;
+}
+
+body {
+  background-color: #ccc;
+  color: var(--text-color);
+  font-family: sans-serif;
+}
+
+button,
+a {
+  color: var(--text-color);
+}
